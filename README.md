@@ -9,7 +9,7 @@
 ## 🛠️ Tech Stack
 
 **Languages:**  
-Python • C • C++ • Java • Embedded C 
+Python • C • C++ • Embedded C 
 
 **Frameworks & Tools:**  
 Flutter • Firebase • Google Maps API • Git • VS Code • Pygame
@@ -43,6 +43,6 @@ Microcontroller-based password-protected door lock using two 8051 MCUs.
 ## 📫 Contact
 
 📧 Email: raneemarefaat@gmail.com 
-🌐 LinkedIn: [linkedin.com/in/your-profile](www.linkedin.com/in/raneem-a-refaat-29b7172b1/) 
+🌐 LinkedIn: www.linkedin.com/in/raneem-a-refaat-29b7172b1/
 
 ---
